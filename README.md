@@ -4,18 +4,13 @@
 </p>
 
 <h1 align="center">
-  <img alt="originalImage" title="Imagem original" src="./ExampleDatabaseImages/concreteCrack.png" />
-  <img alt="tranformImage" title="Imagem Artificial" src="./ExampleDatabaseImages/transform/brightnessContrastGammaCorrection/brightnessContrastGammaCorrection 659.987819613889 ConcreteCrack.png 0.509803921568627 .png" />
-  <img alt="originalImage" title="Imagem original" src="./ExampleDatabaseImages/transform/brightnessContrast/brightnessContrast 592.13053365238 concreteCrack.png 0.509803921568627 .png" />
-  <img alt="originalImage" title="Imagem original" src="./ExampleDatabaseImages/transform/rotate/rotation 327.247439185157 concreteCrack.png 0.509803921568627 .png" />
-  <img alt="originalImage" title="Imagem original" src="./ExampleDatabaseImages/transform/flipFlop/flipFlop 650.86397016421 concreteCrack.png 0.509803921568627 .png" />
-  <img alt="originalImage" title="Imagem original" src="./ExampleDatabaseImages/transform/rotateFlipFlop/rotateFlipFlopp 49.3538624141365 concreteCrack.png 0.509803921568627 .png" />
-  <img alt="originalImage" title="Imagem original" src="./ExampleDatabaseImages/transform/gammaCorrection/originalGammaCorrection 876.812581671402 concreteCrack.png 0.509803921568627 .png" />
-  
-<h1 align="center" display="flex" justify-content="center" >
   <img alt="originalImage" title="Imagem original" src="./ExampleDatabaseImages/concreteCrack.png" height="100px" width="100px" />
-  <img alt="tranformImage" title="Imagem Artificial" src="./ExampleDatabaseImages/transform/brightnessContrastGammaCorrection/brightnessContrastGammaCorrection 659.987819613889 ConcreteCrack.png 0.509803921568627 .png" height="100px" width="100px"/>
-</h1>
+  <img alt="tranformImage" title="Imagem Artificial" src="./ExampleDatabaseImages/transform/brightnessContrastGammaCorrection/brightnessContrastGammaCorrection 659.987819613889 ConcreteCrack.png 0.509803921568627 .png" height="100px" width="100px" />
+  <img alt="originalImage" title="Imagem original" src="./ExampleDatabaseImages/transform/brightnessContrast/brightnessContrast 592.13053365238 concreteCrack.png 0.509803921568627 .png" height="100px" width="100px" />
+  <img alt="originalImage" title="Imagem original" src="./ExampleDatabaseImages/transform/rotate/rotation 327.247439185157 concreteCrack.png 0.509803921568627 .png" height="100px" width="100px" />
+  <img alt="originalImage" title="Imagem original" src="./ExampleDatabaseImages/transform/flipFlop/flipFlop 650.86397016421 concreteCrack.png 0.509803921568627 .png" height="100px" width="100px" />
+  <img alt="originalImage" title="Imagem original" src="./ExampleDatabaseImages/transform/rotateFlipFlop/rotateFlipFlopp 49.3538624141365 concreteCrack.png 0.509803921568627 .png" height="100px" width="100px" />
+  <img alt="originalImage" title="Imagem original" src="./ExampleDatabaseImages/transform/gammaCorrection/originalGammaCorrection 876.812581671402 concreteCrack.png 0.509803921568627 .png" height="100px" width="100px" />
 
 <h2>Tecnologias utilizadas</h2>
 <ul>
