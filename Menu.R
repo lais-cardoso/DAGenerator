@@ -101,6 +101,6 @@ while (control_variable == TRUE ) {
                control_variable = FALSE
              },
              
-             print("Opção inválida")
+             print("Opção inválida. Você digitou uma opção inexistente!")
       )
 }

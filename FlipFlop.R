@@ -11,7 +11,7 @@ flipFlopFilter = function(nImageFlipFlop){
   remove(list=ls())
   
   #Diretório da fotografia original
-  setwd("C:/Users/lalai/OneDrive/Área de Trabalho/imagem")
+  setwd("C:/Users/lalai/OneDrive/Área de Trabalho/Iniciação Científica/Códigos/GeracaoDeImagens-Artigo/ExampleDatabaseImages")
   
   #Importação da biblioteca EBImage
   library(EBImage)
