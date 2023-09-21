@@ -1,6 +1,6 @@
 #Manipulacao de imagens - Geracao de Banco de dados com imagens artificais
 #Classe: Rachaduras
-#Autor: Lais Cardoso de Medeiros
+#Autora: Lais Cardoso de Medeiros
 #Data: 16/02/2023
 #Orientador: Andre Luiz C. Ottoni - UFRB
 
@@ -32,10 +32,10 @@ while (control_variable == TRUE ) {
                  cat("Selecione o FILTRO desejado: \n")
                    cat("\n1 - Rotate")
                    cat("\n2 - Flip/Flop")
-                   cat("\n3 - Rotação/Flip/Flop")
-                   cat("\n4 - Correção Gamma")
-                   cat("\n5 - Brilho/Contraste")
-                   cat("\n6 - Brilho/Contraste/CorreçãoGamma")
+                   cat("\n3 - Rotate/Flip/Flop")
+                   cat("\n4 - Gamma Correction")
+                   cat("\n5 - Brightness/Contrast")
+                   cat("\n6 - Brightness/Contrast/Gamma Correction")
                    cat("\n7 - Sair")
                cat("\n===============================")
                  
@@ -69,24 +69,24 @@ while (control_variable == TRUE ) {
                         "4"={
                           cat("===============================\n")
                             cat("Selecione a variável 'nImage': \n")
-                            nImageCorrecaoGamma = readLines(n=1)
-                            correcaoGammaFilter(nImageCorrecaoGamma)
+                            nImageGammaCorrection = readLines(n=1)
+                            gammaCorrectionFilter(nImageGammaCorrection)
                           cat("\n===============================")
                         },
                         
                         "5"={
                           cat("===============================\n")
                             cat("Selecione a variável 'nImage': \n")
-                            nImageBrilhoContraste = readLines(n=1)
-                            brilhoContrasteFilter(nImageRotate)
+                            nImageBrightnessContrast = readLines(n=1)
+                            brightnessContrastFilter(nImageBrightnessContrast)
                           cat("\n===============================")
                         },
                         
                         "6"={
                           cat("===============================\n")
                             cat("Selecione a variável 'nImage': \n")
-                            nImageBrilhoContrasteCorrecaoGamma = readLines(n=1)
-                            brilhoContrasteCorrecaoGammaFilter(nImageBrilhoContrasteCorrecaoGamma)
+                            nImageBrightnessContrastGammaCorrection = readLines(n=1)
+                            brightnessContrastGammaCorrectionFilter(nImageBrightnessContrastGammaCorrection)
                           cat("\n===============================")
                         },
                         "7"={

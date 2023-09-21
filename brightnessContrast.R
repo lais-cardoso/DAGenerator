@@ -4,9 +4,9 @@
 #Data: 16/02/2023
 #Orientador: Andre Luiz C. Ottoni - UFRB
 
-#About: Esse arquivo gera imagens artificiais com o filtro de ROTAÇÃO.
+#About: Esse arquivo gera imagens artificiais com a combinação de filtros de BRILHO + CONTRASTE.
 
-rotationFilter = function(nImageRotate){
+brightnessContrastFilter = function(nImageBrightnessContrast){
   
   remove(list=ls())
   
@@ -24,41 +24,58 @@ rotationFilter = function(nImageRotate){
   #Objetivo -> diminuir o processamento do treinamento
   for(i in 1:length(photographs)){
     im=readImage(photographs[i])
-    im2=resize(im, 500)
+    im2 = resize(im, 500)
     plot(im2)
     
     randomValue= runif(1, min=0, max=1000);
     
     #ATENÇÃO: Esse diretório deve estar no mesmo local das fotografias originais
     #Diretório segue esse padrão: C:/Users/lalai/OneDrive/Área de Trabalho/imagem/nomeDaPastaDasTransformacoes/nomeDaPastaDaTransformacaoFlipflop/primeiraPalavraDoNomeDaNovaFotografia
-    png(paste("transform/rotate/originalRotation",randomValue,photographs[i],im,".png"))
+    png(paste("transform/brightnessContrast/originalBrightnessContrast",randomValue,photographs[i],im,".png"))
     
     plot(im2)
     dev.off()
     
   }
   
-  #Aplica filtro de rotacao
+  #Aplica filtro de Correcao Gamma
   #Objetivo -> gerar novas imagens (imagens artificiais)
-  for(j in 1:nImageRotate){
+  for(j in 1:nImageBrightnessContrast){
     for(i in 1:length(photographs)){
-      
       im=readImage(photographs[i])
-      im2=resize(im, 500)
+      im2 = resize(im, 500)
       plot(im2)
-    
-      randomValueRotate= runif(1, min=0, max=360);
       
-      #Transformacao rotate: rotacao da imagem
-      im3=rotate(im2,randomValueRotate);
+      #Transformacao: Brilho
+      randomValueIfBrilho= runif(1, min=0, max=1000);
       
-      randomValue=runif(1, min=0, max=1000);
+      if(randomValueIfBrilho > 500){
+        #Transformacao brilho: aumenta o brilho
+        randomValueBrilho= runif(1, min=0.5, max=0.6);
+        im3=im2
+        im3@.Data = im2@.Data+randomValueBrilho
+        plot(im3)
+        
+      }else{
+        #Transformacao brilho: diminui o brilho
+        randomValueBrilho= runif(1, min=0.4, max=0.5);
+        im3=im2
+        im3@.Data = im2@.Data-randomValueBrilho
+        plot(im3)
+      }
+      
+      #Tranformacao Contraste
+      randomValueConstraste= runif(1, min=0.5, max=0.6);
+      im4=im3
+      im4@.Data = im3@.Data*randomValueConstraste
+      
+      randomValue= runif(1, min=0, max=1000);
       
       #ATENÇÃO: Esse diretório deve estar no mesmo local das fotografias originais
-      #Diretório segue esse padrão: C:/Users/lalai/OneDrive/Área de Trabalho/imagem/nomeDaPastaDasTransformacoes/nomeDaPastaDaTransformacaoRotate/primeiraPalavraDoNomeDaNovaFotografia
-      png(paste("transform/rotate/rotation",randomValue,photographs[i],im,".png"))
+      #Diretório segue esse padrão: C:/Users/lalai/OneDrive/Área de Trabalho/imagem/nomeDaPastaDasTransformacoes/nomeDaPastaDaTransformacaoFlipflop/primeiraPalavraDoNomeDaNovaFotografia
+      png(paste("transform/brightnessContrast/brightnessContrast",randomValue,photographs[i],im,".png"))
       
-      plot(im3)
+      plot(im4)
       dev.off()
       
     }
