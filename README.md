@@ -4,8 +4,8 @@
 </p>
 
 <h1 align="center" display="flex" justify-content="center" >
-  <img alt="originalImage" title="Imagem original" src="./ExampleDatabaseImages/concreteCrack.png" />
-  <img alt="tranformImage" title="Imagem Artificial" src="./ExampleDatabaseImages/transform/brightnessContrastGammaCorrection/brightnessContrastGammaCorrection 659.987819613889 ConcreteCrack.png 0.509803921568627 .png" />
+  <img alt="originalImage" title="Imagem original" src="./ExampleDatabaseImages/concreteCrack.png" height="50px" width="50px" />
+  <img alt="tranformImage" title="Imagem Artificial" src="./ExampleDatabaseImages/transform/brightnessContrastGammaCorrection/brightnessContrastGammaCorrection 659.987819613889 ConcreteCrack.png 0.509803921568627 .png" height="50px" width="50px"/>
 </h1>
 
 <h2>Tecnologias utilizadas</h2>
