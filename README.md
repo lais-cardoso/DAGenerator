@@ -1,1 +1,1 @@
-# IAGenerator-Article
+# IAGenerator
