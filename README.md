@@ -48,7 +48,7 @@ AUGMENTATION PARA BANCOS DE DADOS DESBALANCEADOS.
 - Selecione a variável conforme a equação abaixo.
 - Verifique a geração das imagens artificais.
 
-# Observações importantes
+# :warning: Observações importantes
 
 - Mudar a *barra do caminho de cada diretório* conforme a sintaxe do R indica
      - C:/Users/meuUsuario/home/imagem (forma correta)
