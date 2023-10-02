@@ -41,8 +41,8 @@ AUGMENTATION PARA BANCOS DE DADOS DESBALANCEADOS.
 - Realize o  <i> download </i> do Projeto.
 - Acesse a documentação da biblioteca EBImage: https://bioconductor.org/packages/release/bioc/html/EBImage.html
 - Instale a biblioteca EBImage.
-- Clique em </i> source </i> em todos os arquivos de transformação de imagens.
-- Clique em </i> source </i> no arquivo do menu.
+- Clique em <i> source </i> em todos os arquivos de transformação de imagens.
+- Clique em <i> source </i> no arquivo do menu.
 - **Leia** as mensagens do terminal.
 - Selecione a transformação através do menu no terminal de comando do Rstudio.
 - Selecione a variável conforme a equação abaixo.
