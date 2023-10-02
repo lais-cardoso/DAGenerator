@@ -40,7 +40,10 @@ Para acessar esse material: https://drive.google.com/drive/folders/1ZkwuPjSWuE02
 
 # 🛠️ Abrir e rodar o projeto
 
+- Realize o  <i> download </i> do R.
+     - Link para  <i> download </i> da versão 4.2.2: https://cran.r-project.org/bin/windows/base/old/4.2.2/ 
 - Realize o  <i> download </i> do RStudio.
+     - Link para  <i> download </i> da versão 2022.12.0: [https://cran.r-project.org/bin/windows/base/old/4.2.2/](https://dailies.rstudio.com/version/2022.12.0+353/)
 - Realize o  <i> download </i> do Projeto.
 - Acesse a documentação da biblioteca EBImage: https://bioconductor.org/packages/release/bioc/html/EBImage.html
 - Instale a biblioteca EBImage.
