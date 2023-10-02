@@ -14,6 +14,17 @@ Em resumo, o projeto tem o intuito de realizar o balanceamento de banco de dados
   <img alt="originalImage" title="Imagem Artificial" src="./ExampleDatabaseImages/transform/rotateFlipFlop/rotateFlipFlopp 49.3538624141365 concreteCrack.png 0.509803921568627 .png" height="100px" width="100px" />
   <img alt="originalImage" title="Imagem Artificial" src="./ExampleDatabaseImages/transform/gammaCorrection/gammaCorrection 329.745689406991 concreteCrack.png 0.509803921568627 .png" height="100px" width="100px" />
 
+# 📄 Artigo
+
+O link abaixo contém o Trabalho de Conclusão de Curso e o Artigo com metodologia composta pelo Algoritmo IAGenerator.
+
+- Trabalho de Conclusão de Curso: APLICAÇÃO DE APRENDIZADO PROFUNDO NA CLASSIFICAÇÃO DE
+IMAGENS DE PATOLOGIAS DA CONSTRUÇÃO CIVIL: ANÁLISE DE DATA
+AUGMENTATION PARA BANCOS DE DADOS DESBALANCEADOS.
+
+- Artigo: Aplicacão de Aprendizado Profundo na Classificação de Imagens de Patologias da Construção Civil: Análise de Data Augmentation para Bancos de Dados Desbalanceados
+     - https://drive.google.com/drive/folders/1ZkwuPjSWuE02hcQw7Wa_Yb6BWQ0pkfbj?usp=sharing
+
 # ✔️ Tecnologias utilizadas
 <ul>
     <li>Linguagem: R na versão 4.2.2</li>
@@ -53,6 +64,6 @@ Em resumo, o projeto tem o intuito de realizar o balanceamento de banco de dados
 - https://www.youtube.com/watch?v=dKgEDAUUtoo&t=206s
 - https://youtube.com/playlist?list=PLvth1ZcREyK6QXKYIpnkmHbbRXSsE53f9&si=48fx9YPsODV_XFFM
 
-# Autora
+# ✒️ Autores
 
 Laís Cardoso de Medeiros
