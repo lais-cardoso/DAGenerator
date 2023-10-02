@@ -83,7 +83,7 @@ AUGMENTATION PARA BANCOS DE DADOS DESBALANCEADOS.
           - Autor: Yang
           - Classe: Rachadura
           - Artigo: https://doi.org/10.1111/mice.12412
-     - Dais : https://github.com/dimitrisdais/crack_detection_CNN_masonry
+     - Crack detection for masonry surfaces: https://github.com/dimitrisdais/crack_detection_CNN_masonry
           - Autor: Dimitris Dais, İhsan Engin Bal, Eleni Smyrou, Vasilis Sarhosis.
           - Classe: Rachadura
           - Artigo: https://doi.org/10.1016/j.autcon.2021.103606
