@@ -22,7 +22,7 @@ O link abaixo contém o Trabalho de Conclusão de Curso e o Artigo com metodolog
 IMAGENS DE PATOLOGIAS DA CONSTRUÇÃO CIVIL: ANÁLISE DE DATA
 AUGMENTATION PARA BANCOS DE DADOS DESBALANCEADOS.
 
-- **Artigo**: Aplicacão de Aprendizado Profundo na Classificação de Imagens de Patologias da Construção Civil: Análise de Data Augmentation para Bancos de Dados Desbalanceados.
+- **Artigo**: Aplicacão de Aprendizado Profundo na Classificação de Imagens de Patologias da Construção Civil: Análise de  <i> Data Augmentation </i> para Bancos de Dados Desbalanceados.
      - https://drive.google.com/drive/folders/1ZkwuPjSWuE02hcQw7Wa_Yb6BWQ0pkfbj?usp=sharing
 
 # ✔️ Tecnologias utilizadas
@@ -33,16 +33,16 @@ AUGMENTATION PARA BANCOS DE DADOS DESBALANCEADOS.
 
 # 📁 Acesso ao projeto
 
-- Acesse o código fonte inicial ou realize o download através do GitHub.
+- Acesse o código fonte inicial ou realize o  <i> download </i> através do GitHub.
 
 # 🛠️ Abrir e rodar o projeto
 
-- Realize o download do RStudio.
-- Realize o download do Projeto.
+- Realize o  <i> download </i> do RStudio.
+- Realize o  <i> download </i> do Projeto.
 - Acesse a documentação da biblioteca EBImage: https://bioconductor.org/packages/release/bioc/html/EBImage.html
 - Instale a biblioteca EBImage.
-- Clique em "source" em todos os arquivos de transformação de imagens.
-- Clique em "source" no arquivo do menu.
+- Clique em </i> source </i> em todos os arquivos de transformação de imagens.
+- Clique em </i> source </i> no arquivo do menu.
 - **Leia** as mensagens do terminal.
 - Selecione a transformação através do menu no terminal de comando do Rstudio.
 - Selecione a variável conforme a equação abaixo.
@@ -56,7 +56,7 @@ AUGMENTATION PARA BANCOS DE DADOS DESBALANCEADOS.
   
 - Verificar se as suas imagens originais estão no formato .jpg ou .png, em caso de .jpg modifique a linha 21 de cada arquivo.
 - Definir o diretório da pasta das imagens originais e o diretório de destino das imagens artificiais.
-- SEMPRE que salvar novas alterações aperte a tecla “Esc” em seguida “source”.
+- SEMPRE que salvar novas alterações aperte a tecla “Esc” em seguida </i> source </i> .
 
 # 📦 Materiais utilizados
 
