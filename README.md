@@ -68,5 +68,5 @@ AUGMENTATION PARA BANCOS DE DADOS DESBALANCEADOS.
 # ✒️ Autores
 
 **Pesquisadora e Desenvolvedora**: Laís Cardoso de Medeiros
-<br>
+<br />
 **Orientação**: André Luiz Carvalho Ottoni
