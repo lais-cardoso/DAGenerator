@@ -14,10 +14,19 @@
 
 <h2>Tecnologias utilizadas</h2>
 <ul>
-    <li>Linguagem R</li>
-    <li>IDE: Rstudio</li>
-    <li>Biblioteca: EBImage</li>
+    <li>Linguagem: R na versão 4.2.2</li>
+    <li>IDE: Rstudio na versão 2022.12.0</li>
+    <li>Biblioteca: EBImage na versão 4.42.0</li>
 </ul>
+
+# 📁 Acesso ao projeto
+
+- Acesse o código fonte inicial ou realize o download através do GitHub.
+
+# 🛠️ Abrir e rodar o projeto
+
+- Realize o download do RStudio
+- 
 
 # Autora
 
