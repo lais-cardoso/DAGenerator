@@ -12,7 +12,7 @@
   <img alt="originalImage" title="Imagem Artificial" src="./ExampleDatabaseImages/transform/rotateFlipFlop/rotateFlipFlopp 49.3538624141365 concreteCrack.png 0.509803921568627 .png" height="100px" width="100px" />
   <img alt="originalImage" title="Imagem Artificial" src="./ExampleDatabaseImages/transform/gammaCorrection/gammaCorrection 329.745689406991 concreteCrack.png 0.509803921568627 .png" height="100px" width="100px" />
 
-<h2>Tecnologias utilizadas</h2>
+# ✔️ Técnicas e tecnologias utilizadas
 <ul>
     <li>Linguagem: R na versão 4.2.2</li>
     <li>IDE: Rstudio na versão 2022.12.0</li>
