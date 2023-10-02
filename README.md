@@ -46,7 +46,7 @@ AUGMENTATION PARA BANCOS DE DADOS DESBALANCEADOS.
 - **Leia** as mensagens do terminal.
 - Selecione a transformação através do menu no terminal de comando do Rstudio.
 - Selecione a variável conforme a equação abaixo.
-- Verifique a geração das imagens artificais.
+- Verifique a geração do Banco Artificial de Imagens.
 
 # :warning: Observações importantes
 
@@ -57,7 +57,7 @@ AUGMENTATION PARA BANCOS DE DADOS DESBALANCEADOS.
 - Verificar se as suas imagens originais estão no formato .jpg ou .png, em caso de .jpg modifique a linha 21 de cada arquivo.
 - Definir o diretório da pasta das imagens originais e o diretório de destino das imagens artificiais.
 - SEMPRE que salvar novas alterações aperte a tecla “Esc” em seguida </i> source </i> .
-- Lembre-se o número de imagens artificais se baseia na equação:
+- Lembre-se o número de imagens no Banco Artificial de Imagens se baseia na equação:
      - Total de imagens = nImage * fotografias originais
 
 # 📦 Materiais utilizados
