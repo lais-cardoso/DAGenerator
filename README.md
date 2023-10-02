@@ -81,7 +81,7 @@ AUGMENTATION PARA BANCOS DE DADOS DESBALANCEADOS.
      - Yang : https://drive.google.com/drive/folders/1cplcUBmgHfD82YQTWnn1dssK2Z_xRpjx
           - Autor: Yang
           - Classe: Rachadura
-     - Dais : github.com/dimitrisdais/crack_detection_CNN_masonry
+     - Dais : https://github.com/dimitrisdais/crack_detection_CNN_masonry
           - Autor: Dais
           - Classe: Rachadura
 - Dataset EXTRA:
