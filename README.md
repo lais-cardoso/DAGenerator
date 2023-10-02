@@ -18,12 +18,10 @@ Em resumo, o projeto tem o intuito de realizar o balanceamento de banco de dados
 
 O link abaixo contém o Trabalho de Conclusão de Curso e o Artigo com metodologia composta pelo Algoritmo IAGenerator.
 
-- **Trabalho de Conclusão de Curso**: APLICAÇÃO DE APRENDIZADO PROFUNDO NA CLASSIFICAÇÃO DE
-IMAGENS DE PATOLOGIAS DA CONSTRUÇÃO CIVIL: ANÁLISE DE DATA
-AUGMENTATION PARA BANCOS DE DADOS DESBALANCEADOS.
+- **Trabalho de Conclusão de Curso**: Aplicação de Aprendizado Profundo na Classificação de imagens de patologias da construção civil: Análise de  <i> Data Augmentation </i> para Bancos de Dados Desbalanceados.
      - Bacharelado em Ciências Exatas e Tecnológicas, Universidade Federal do Recôncavo da Bahia, junho de 2023.
 
-- **Artigo**: Aplicacão de Aprendizado Profundo na Classificação de Imagens de Patologias da Construção Civil: Análise de  <i> Data Augmentation </i> para Bancos de Dados Desbalanceados.
+- **Artigo**: Aplicacão de Aprendizado Profundo na Classificação de Imagens de Patologias da Construção Civil: Análise de <i> Data Augmentation </i> para Bancos de Dados Desbalanceados.
      - Será publicado e apresentado no Congresso Brasileiro de Inteligência Computacional 2023.
       
 Para acessar esse material: https://drive.google.com/drive/folders/1ZkwuPjSWuE02hcQw7Wa_Yb6BWQ0pkfbj?usp=sharing
