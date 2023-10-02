@@ -28,7 +28,12 @@ Em resumo, o projeto tem o intuito de realizar o balanceamento de banco de dados
 # 🛠️ Abrir e rodar o projeto
 
 - Realize o download do RStudio
-- 
+- Instale a biblioteca EBImage
+- Clique em "source" em todoss os arquivos de transformação de imagens
+- Clique em "source" no arquivo do menu
+- Selecione a transformação através do menu no terminal de comando do Rstudio
+- Selecione a variável conforme a equação abaixo
+- Verifique a geração das imagens artificais
 
 # Autora
 
