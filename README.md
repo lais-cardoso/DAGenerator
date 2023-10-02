@@ -65,12 +65,14 @@ AUGMENTATION PARA BANCOS DE DADOS DESBALANCEADOS.
 - Aplicar filtros geométricos ou de cor em imagens originais.
 - Gerar o Banco de Artificial de Imagens.
 
-# 📦 Materiais utilizados
+# :pushpin: Materiais utilizados
 
 - https://www.r-project.org/other-docs.html
 - https://bioconductor.org/packages/release/bioc/html/EBImage.html
 - https://www.youtube.com/watch?v=dKgEDAUUtoo&t=206s
 - https://youtube.com/playlist?list=PLvth1ZcREyK6QXKYIpnkmHbbRXSsE53f9&si=48fx9YPsODV_XFFM
+
+# 📦 Base de Dados 
 
 # ✒️ Autores
 
