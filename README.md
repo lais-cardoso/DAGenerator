@@ -103,7 +103,7 @@ Para acessar esse material: https://drive.google.com/drive/folders/1ZkwuPjSWuE02
  | [<img loading="lazy" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/68950987?v=4" width=115 /><br><sub>Laís Cardoso de Medeiros</sub>](https://github.com/lais-cardoso) |
  | :---: |
 
-Responsável pelo desenvolvimento da Pesquisa e Desenvolvimento do Algoritmo DAGenerator, Laís Cardoso de Medeiros é Bacharela em Ciências Exatas e Tecnológicas (2023) e estudante de Engenharia na Computação na Universidade Federal do Recôncavo da Bahia (UFRB). Além disso, a pesquisadora nas áreas de Robótica e Inteligência Artificial, atua no grupo de pesquisa Robotics and Artificial Intelligence (RAI) criado no Centro de Ciências Exatas e Tecnológicas (CETEC).
+Responsável pelo desenvolvimento da Pesquisa e Desenvolvimento do Algoritmo DAGenerator, Laís Cardoso de Medeiros é Bacharela em Ciências Exatas e Tecnológicas (2023) e estudante de Engenharia na Computação na Universidade Federal do Recôncavo da Bahia (UFRB). Além disso, atua como pesquisadora nas áreas de Robótica e Inteligência Artificial no grupo de pesquisa Robotics and Artificial Intelligence (RAI) criado no Centro de Ciências Exatas e Tecnológicas (CETEC).
 
 <br />
 **Orientação**: André Luiz Carvalho Ottoni
