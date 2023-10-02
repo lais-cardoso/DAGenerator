@@ -22,7 +22,7 @@ O link abaixo contém o Trabalho de Conclusão de Curso e o Artigo com metodolog
 IMAGENS DE PATOLOGIAS DA CONSTRUÇÃO CIVIL: ANÁLISE DE DATA
 AUGMENTATION PARA BANCOS DE DADOS DESBALANCEADOS.
 
-- **Artigo**: Aplicacão de Aprendizado Profundo na Classificação de Imagens de Patologias da Construção Civil: Análise de Data Augmentation para Bancos de Dados Desbalanceados
+- **Artigo**: Aplicacão de Aprendizado Profundo na Classificação de Imagens de Patologias da Construção Civil: Análise de Data Augmentation para Bancos de Dados Desbalanceados.
      - https://drive.google.com/drive/folders/1ZkwuPjSWuE02hcQw7Wa_Yb6BWQ0pkfbj?usp=sharing
 
 # ✔️ Tecnologias utilizadas
