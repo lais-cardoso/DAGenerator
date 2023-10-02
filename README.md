@@ -81,15 +81,22 @@ AUGMENTATION PARA BANCOS DE DADOS DESBALANCEADOS.
      - Yang : https://drive.google.com/drive/folders/1cplcUBmgHfD82YQTWnn1dssK2Z_xRpjx
           - Autor: Yang
           - Classe: Rachadura
+          - Artigo: 
      - Dais : https://github.com/dimitrisdais/crack_detection_CNN_masonry
-          - Autor: Dais
+          - Autor: Dimitris Dais, İhsan Engin Bal, Eleni Smyrou, Vasilis Sarhosis.
           - Classe: Rachadura
+          - Artigo: https://doi.org/10.1016/j.autcon.2021.103606
+
 - Dataset EXTRA:
      - Concrete Crack Conglomerate Dataset: https://data.lib.vt.edu/articles/dataset/Concrete_Crack_Conglomerate_Dataset/16625056?file=30930337
           - Autores: Eric Bianchi, Matthew Hebdon
           - Classe: Rachadura
+          - Artigo:https://doi.org/10.7294/16628596.v1
 
 # ✒️ Autores
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| :---: | :---: | :---: |
 
 **Pesquisa e Desenvolvimento**: Laís Cardoso de Medeiros
 <br />
