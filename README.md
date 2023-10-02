@@ -18,3 +18,7 @@
     <li>IDE: Rstudio</li>
     <li>Biblioteca: EBImage</li>
 </ul>
+
+# Autora
+
+Laís Cardoso de Medeiros
