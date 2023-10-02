@@ -77,3 +77,9 @@ AUGMENTATION PARA BANCOS DE DADOS DESBALANCEADOS.
 **Pesquisa e Desenvolvimento**: Laís Cardoso de Medeiros
 <br />
 **Orientação**: André Luiz Carvalho Ottoni
+
+# :moneybag: Financiamento
+
+<p>O algoritmo DAGenerator é um produto do Projeto de Iniciação Científica "Aplicação de aprendizado profundo na classificação de patologias
+em imagens da construção civil" financiado pela Fundação de Amparo à Pesquisa do Estado da Bahia – Fapesb (Pedido Nº
+4153/2022)</p>
