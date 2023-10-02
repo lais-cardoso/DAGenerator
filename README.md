@@ -40,7 +40,7 @@ Em resumo, o projeto tem o intuito de realizar o balanceamento de banco de dados
 
 # Observações importantes
 
-- Mudar a *barra dos links* conforme a sintaxe do R indica
+- Mudar a *barra do caminho de cada diretório* conforme a sintaxe do R indica
      - C:/Users/meuUsuario/home/imagem (forma correta)
      - C:\Users\meuUsuario\home\imagem (forma incorreta)
   
@@ -48,6 +48,10 @@ Em resumo, o projeto tem o intuito de realizar o balanceamento de banco de dados
 - Definir o diretório da pasta das imagens originais e o diretório de destino das imagens artificiais.
 - SEMPRE que salvar novas alterações aperte “Esc” em seguida “source”.
 
+# Materiais utilizados
+
+- https://www.youtube.com/watch?v=dKgEDAUUtoo&t=206s
+- https://youtube.com/playlist?list=PLvth1ZcREyK6QXKYIpnkmHbbRXSsE53f9&si=48fx9YPsODV_XFFM
 
 # Autora
 
