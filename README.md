@@ -103,10 +103,12 @@ Para acessar esse material: https://drive.google.com/drive/folders/1ZkwuPjSWuE02
  | [<img loading="lazy" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/68950987?v=4" width=115 /><br><sub>Laís Cardoso de Medeiros</sub>](https://github.com/lais-cardoso) |
  | :---: |
 
-Responsável pelo desenvolvimento da Pesquisa e Desenvolvimento do Algoritmo DAGenerator, Laís Cardoso de Medeiros é Bacharela em Ciências Exatas e Tecnológicas (2023) e estudante de Engenharia na Computação na Universidade Federal do Recôncavo da Bahia (UFRB). Além disso, atua como pesquisadora nas áreas de Robótica e Inteligência Artificial no grupo de pesquisa Robotics and Artificial Intelligence (RAI) criado no Centro de Ciências Exatas e Tecnológicas (CETEC).
+Responsável pelo desenvolvimento da **Pesquisa e Desenvolvimento** do Algoritmo DAGenerator, Laís Cardoso de Medeiros é Bacharela em Ciências Exatas e Tecnológicas (2023) e estudante de Engenharia na Computação na Universidade Federal do Recôncavo da Bahia (UFRB). Além disso, atua como pesquisadora nas áreas de Robótica e Inteligência Artificial no grupo de pesquisa Robotics and Artificial Intelligence (RAI) criado no Centro de Ciências Exatas e Tecnológicas (CETEC).
 
-<br />
-**Orientação**: André Luiz Carvalho Ottoni
+ | [<img loading="lazy" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/68950987?v=4" width=115 /><br><sub>André Luiz Carvalho Ottoni</sub>](https://github.com/lais-cardoso) |
+ | :---: |
+
+Responsável pela Orientação do Projeto, André Luiz Carvalho Ottoni é Doutor em Engenharia Elétrica pela UFBA (2022) com Graduação (2015) e Mestrado (2016) em Engenharia Elétrica pela UFSJ. Além disso, tem Formação técnica em Planejamento e Gestão em Tecnologia da Informação pelo CEFET-MG e atua como Professor Adjunto no Centro de Ciências Exatas e Tecnológicas (CETEC) da Universidade Federal do Recôncavo da Bahia (UFRB). Tópicos de pesquisa: Inteligência Artificial, Aprendizado de Máquina, Aprendizado Profundo, Aprendizado por Reforço e Robótica Inteligente.
 
 # :moneybag: Financiamento
 
