@@ -27,26 +27,26 @@ Em resumo, o projeto tem o intuito de realizar o balanceamento de banco de dados
 
 # 🛠️ Abrir e rodar o projeto
 
-- Realize o download do RStudio
-- Realize o download do Projeto
+- Realize o download do RStudio.
+- Realize o download do Projeto.
 - Acesse a documentação da biblioteca EBImage: https://bioconductor.org/packages/release/bioc/html/EBImage.html
-- Instale a biblioteca EBImage
-- Clique em "source" em todoss os arquivos de transformação de imagens
-- Clique em "source" no arquivo do menu
-- **Leia** as mensagens do terminal
-- Selecione a transformação através do menu no terminal de comando do Rstudio
-- Selecione a variável conforme a equação abaixo
-- Verifique a geração das imagens artificais
+- Instale a biblioteca EBImage.
+- Clique em "source" em todos os arquivos de transformação de imagens.
+- Clique em "source" no arquivo do menu.
+- **Leia** as mensagens do terminal.
+- Selecione a transformação através do menu no terminal de comando do Rstudio.
+- Selecione a variável conforme a equação abaixo.
+- Verifique a geração das imagens artificais.
 
 # Observações importantes
 
-- Mudar a *barra dos links* conforme a sintaxe do R indica: 
-     C:/Users/meuUsuario/home/imagem (forma correta)
-     C:\Users\meuUsuario\home\imagem (forma incorreta)
+- Mudar a *barra dos links* conforme a sintaxe do R indica
+     - C:/Users/meuUsuario/home/imagem (forma correta)
+     - C:\Users\meuUsuario\home\imagem (forma incorreta)
   
 - Verificar se as suas imagens originais estão no formato .jpg ou .png, em caso de .jpg modifique a linha 21 de cada arquivo.
-- Definir o diretório da pasta das imagens originais e o diretório de destino das imagens artificiais
-= SEMPRE que salvar novas alterações aperte “Esc” em seguida “source”
+- Definir o diretório da pasta das imagens originais e o diretório de destino das imagens artificiais.
+- SEMPRE que salvar novas alterações aperte “Esc” em seguida “source”.
 
 
 # Autora
