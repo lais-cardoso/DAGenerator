@@ -78,10 +78,11 @@ AUGMENTATION PARA BANCOS DE DADOS DESBALANCEADOS.
      - Concrete Crack Images for Classification: https://data.mendeley.com/datasets/5y9wdsg2zt/2
           - Autor: Çağlar Fırat Özgenel
           - Classes: Parede e Rachadura
+          - Artigo: https://doi.org/10.22260/ISARC2018/0094
      - Yang : https://drive.google.com/drive/folders/1cplcUBmgHfD82YQTWnn1dssK2Z_xRpjx
           - Autor: Yang
           - Classe: Rachadura
-          - Artigo: 
+          - Artigo: https://doi.org/10.1111/mice.12412
      - Dais : https://github.com/dimitrisdais/crack_detection_CNN_masonry
           - Autor: Dimitris Dais, İhsan Engin Bal, Eleni Smyrou, Vasilis Sarhosis.
           - Classe: Rachadura
