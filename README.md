@@ -100,9 +100,6 @@ Para acessar esse material: https://drive.google.com/drive/folders/1ZkwuPjSWuE02
 
 # ✒️ Autores
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/68950987?v=4" width=115><br><sub>Laís Cardoso de Medeiros</sub>](https://github.com/camilafernanda) |  [<img loading="lazy" src="https://lh5.googleusercontent.com/ppdia_igBWkUx_0rlnRAI9pOZ7OJsNe1yuzSqHtMw1HxBp9Ci2obN6KPq09OGjQjZ0OqHERLyk_7eOP8fkK7hAg=w1280" width=115><br><sub>André Luiz Carvalho Ottoni</sub>](https://github.com/guilhermeonrails) | 
-| :---: | :---: |
-
  | [<img loading="lazy" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/68950987?v=4" width=115 /><br><sub>Laís Cardoso de Medeiros</sub>](https://github.com/lais-cardoso) |
  | :---: |
 
