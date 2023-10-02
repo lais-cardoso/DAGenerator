@@ -62,8 +62,8 @@ AUGMENTATION PARA BANCOS DE DADOS DESBALANCEADOS.
 
  # :hammer: Funcionalidades do projeto
 
-- `Funcionalidade 1`: Aplicar filtros geométricos ou de cor em imagens originais.
-- `Funcionalidade 2`: Gerar o Banco de Artificial de Imagens.
+- Aplicar filtros geométricos ou de cor em imagens originais.
+- Gerar o Banco de Artificial de Imagens.
 
 # 📦 Materiais utilizados
 
