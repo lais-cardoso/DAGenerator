@@ -23,17 +23,17 @@ brightnessContrastGammaCorrectionFilter = function(nImageBrilhoContrasteCorrecao
   #Aplica filtro de redimensionamento(resize) na lista de fotografias originais
   #Objetivo -> diminuir o processamento do treinamento
   for(i in 1:length(photographs)){
-    im=readImage(photographs[i])
-    im2 = resize(im, 500) #6 MB
-    plot(im2)
+    originalImage=readImage(photographs[i])
+    resizeImage = resize(originalImage, 500) #6 MB
+    plot(resizeImage)
     
     randomValue= runif(1, min=0, max=1000);
     
     #ATENÇÃO: Esse diretório deve estar no mesmo local das fotografias originais
     #Diretório segue esse padrão: C:/Users/lalai/OneDrive/Área de Trabalho/imagem/nomeDaPastaDasTransformacoes/nomeDaPastaDaTransformacaoFlipflop/primeiraPalavraDoNomeDaNovaFotografia
-    png(paste("transform/brightnessContrastGammaCorrection/originalBrightnessContrastGammaCorrection",randomValue,photographs[i],im,".png"))
+    png(paste("transform/brightnessContrastGammaCorrection/originalBrightnessContrastGammaCorrection",randomValue,photographs[i],originalImage,".png"))
     
-    plot(im2)
+    plot(resizeImage)
     dev.off()
     
   }
@@ -42,9 +42,9 @@ brightnessContrastGammaCorrectionFilter = function(nImageBrilhoContrasteCorrecao
   #Objetivo -> gerar novas imagens (imagens artificiais)
   for(j in 1:nImageBrightnessContrastGammaCorrection){
     for(i in 1:length(photographs)){
-      im=readImage(photographs[i])
-      im2 = resize(im, 500) #6 MB
-      plot(im2)
+      originalImage=readImage(photographs[i])
+      resizeImage = resize(originalImage, 500) #6 MB
+      plot(resizeImage)
       
       #Brilho
       randomValueIfBrilho= runif(1, min=0, max=1000);
@@ -52,38 +52,38 @@ brightnessContrastGammaCorrectionFilter = function(nImageBrilhoContrasteCorrecao
       if(randomValueIfBrilho > 500){
         #Transformacao brilho: aumenta o brilho
         randomValueBrilho= runif(1, min=0.5, max=0.6);
-        im3=im2
-        im3@.Data = im2@.Data+randomValueBrilho
-        plot(im3)
+        brightnessImage=resizeImage
+        brightnessImage@.Data = resizeImage@.Data+randomValueBrilho
+        plot(brightnessImage)
         
       }else{
         #Transformacao brilho: diminui o brilho
         randomValueBrilho= runif(1, min=0.4, max=0.5);
-        im3=im2
-        im3@.Data = im2@.Data-randomValueBrilho
-        plot(im3)
+        brightnessImage=resizeImage
+        brightnessImage@.Data = resizeImage@.Data-randomValueBrilho
+        plot(brightnessImage)
       }
       
       #Transformacao Contraste
       randomValueConstraste= runif(1, min=0.5, max=0.6);
-      im4=im3
-      im4@.Data = im3@.Data*randomValueConstraste
+      contrastImage=brightnessImage
+      contrastImage@.Data = brightnessImage@.Data*randomValueConstraste
       
       randomValue= runif(1, min=0, max=1000);
       
       randomGammaValue = runif(1, min=0.4, max=0.6);
       
       #Transformacao: Correcao Gamma
-      im5= im4^randomGammaValue
-      plot(im5)
+      gammaCorrectionImage= contrastImage^randomGammaValue
+      plot(gammaCorrectionImage)
       
       randomValue= runif(1, min=0, max=1000);
       
       #ATENÇÃO: Esse diretório deve estar no mesmo local das fotografias originais
       #Diretório segue esse padrão: C:/Users/lalai/OneDrive/Área de Trabalho/imagem/nomeDaPastaDasTransformacoes/nomeDaPastaDaTransformacaoFlipflop/primeiraPalavraDoNomeDaNovaFotografia
-      png(paste("transform/brightnessContrastGammaCorrection/brightnessContrastGammaCorrection",randomValue,photographs[i],im,".png"))
+      png(paste("transform/brightnessContrastGammaCorrection/brightnessContrastGammaCorrection",randomValue,photographs[i],originalImage,".png"))
       
-      plot(im5)
+      plot(gammaCorrectionImage)
       dev.off()
       
     }

@@ -23,17 +23,17 @@ flipFlopFilter = function(nImageFlipFlop){
   #Aplica filtro de redimensionamento(resize) na lista de fotografias originais
   #Objetivo -> diminuir o processamento do treinamento
   for(i in 1:length(photographs)){
-    im=readImage(photographs[i])
-    im2=resize(im, 500) 
-    plot(im2)
+    originalImage=readImage(photographs[i])
+    resizeImage=resize(originalImage, 500) 
+    plot(resizeImage)
     
     randomValue=runif(1, min=0, max=1000);
     
     #ATENÇÃO: Esse diretório deve estar no mesmo local das fotografias originais
     #Diretório segue esse padrão: C:/Users/lalai/OneDrive/Área de Trabalho/imagem/nomeDaPastaDasTransformacoes/nomeDaPastaDaTransformacaoFlipflop/primeiraPalavraDoNomeDaNovaFotografia
-    png(paste("transform/flipFlop/flipFlopOriginal",randomValue,photographs[i],im,".png"))
+    png(paste("transform/flipFlop/flipFlopOriginal",randomValue,photographs[i],originalImage,".png"))
     
-    plot(im2)
+    plot(resizeImage)
     dev.off()
     
   }
@@ -43,23 +43,23 @@ flipFlopFilter = function(nImageFlipFlop){
   for(j in 1:nImageFlipFlop){
     for(i in 1:length(photographs)){
       
-      im=readImage(photographs[i])
-      im2=resize(im, 500) 
-      plot(im2)
+      originalImage=readImage(photographs[i])
+      resizeImage=resize(originalImage, 500) 
+      plot(resizeImage)
       
       #Transformacao flip: Espelhamento no sentindo vertical
-      im3=flip(im2)
+      flipImage=flip(resizeImage)
       
       #Transformacao flop: Espelhamento no sentindo horizontal e vertical
-      im4=flop(im3)
+      flopImage=flop(flipImage)
       
       randomValue= runif(1, min=0, max=1000);
       
       #ATENÇÃO: Esse diretório deve estar no mesmo local das fotografias originais
       #Diretório segue esse padrão: C:/Users/lalai/OneDrive/Área de Trabalho/imagem/nomeDaPastaDasTransformacoes/nomeDaPastaDaTransformacaoFlipflop/primeiraPalavraDoNomeDaNovaFotografia
-      png(paste("transform/flipFlop/flipFlop",randomValue,photographs[i],im,".png"))
+      png(paste("transform/flipFlop/flipFlop",randomValue,photographs[i],originalImage,".png"))
       
-      plot(im4)
+      plot(flopImage)
       dev.off()
       
     }

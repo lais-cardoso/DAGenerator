@@ -23,17 +23,17 @@ rotationFilter = function(nImageRotate){
   #Aplica filtro de redimensionamento(resize) na lista de fotografias originais
   #Objetivo -> diminuir o processamento do treinamento
   for(i in 1:length(photographs)){
-    im=readImage(photographs[i])
-    im2=resize(im, 500)
-    plot(im2)
+    originalImage=readImage(photographs[i])
+    resizeImage=resize(originalImage, 500)
+    plot(resizeImage)
     
     randomValue= runif(1, min=0, max=1000);
     
     #ATENÇÃO: Esse diretório deve estar no mesmo local das fotografias originais
     #Diretório segue esse padrão: C:/Users/lalai/OneDrive/Área de Trabalho/imagem/nomeDaPastaDasTransformacoes/nomeDaPastaDaTransformacaoFlipflop/primeiraPalavraDoNomeDaNovaFotografia
-    png(paste("transform/rotate/originalRotation",randomValue,photographs[i],im,".png"))
+    png(paste("transform/rotate/originalRotation",randomValue,photographs[i],originalImage,".png"))
     
-    plot(im2)
+    plot(resizeImage)
     dev.off()
     
   }
@@ -43,22 +43,22 @@ rotationFilter = function(nImageRotate){
   for(j in 1:nImageRotate){
     for(i in 1:length(photographs)){
       
-      im=readImage(photographs[i])
-      im2=resize(im, 500)
-      plot(im2)
+      originalImage=readImage(photographs[i])
+      resizeImage=resize(originalImage, 500)
+      plot(resizeImage)
     
       randomValueRotate= runif(1, min=0, max=360);
       
       #Transformacao rotate: rotacao da imagem
-      im3=rotate(im2,randomValueRotate);
+      rotateImage=rotate(resizeImage,randomValueRotate);
       
       randomValue=runif(1, min=0, max=1000);
       
       #ATENÇÃO: Esse diretório deve estar no mesmo local das fotografias originais
       #Diretório segue esse padrão: C:/Users/lalai/OneDrive/Área de Trabalho/imagem/nomeDaPastaDasTransformacoes/nomeDaPastaDaTransformacaoRotate/primeiraPalavraDoNomeDaNovaFotografia
-      png(paste("transform/rotate/rotation",randomValue,photographs[i],im,".png"))
+      png(paste("transform/rotate/rotation",randomValue,photographs[i],originalImage,".png"))
       
-      plot(im3)
+      plot(rotateImage)
       dev.off()
       
     }
