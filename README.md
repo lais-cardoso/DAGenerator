@@ -79,9 +79,11 @@ AUGMENTATION PARA BANCOS DE DADOS DESBALANCEADOS.
           - Autor: Çağlar Fırat Özgenel
           - Classes: Parede e Rachadura
      - Yang : https://drive.google.com/drive/folders/1cplcUBmgHfD82YQTWnn1dssK2Z_xRpjx
-          - Autor: Yang 
+          - Autor: Yang
+          - Classe: Rachadura
      - Dais : github.com/dimitrisdais/crack_detection_CNN_masonry
           - Autor: Dais
+          - Classe: Rachadura
 - Dataset EXTRA:
      - Concrete Crack Conglomerate Dataset: https://data.lib.vt.edu/articles/dataset/Concrete_Crack_Conglomerate_Dataset/16625056?file=30930337
           - Autores: Eric Bianchi, Matthew Hebdon
