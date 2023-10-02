@@ -98,5 +98,5 @@ AUGMENTATION PARA BANCOS DE DADOS DESBALANCEADOS.
 # :moneybag: Financiamento
 
 <p>O algoritmo DAGenerator é um produto do <b>Projeto de Iniciação Científica</b> "Aplicação de aprendizado profundo na classificação de patologias
-em imagens da construção civil" com bolsa financiada pela Fundação de Amparo à Pesquisa do Estado da Bahia – Fapesb (Pedido Nº
-4153/2022).</p>
+em imagens da construção civil" com bolsa financiada pela Fundação de Amparo à Pesquisa do Estado da Bahia (FAPESB) - Pedido Nº
+4153/2022.</p>
