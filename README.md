@@ -60,6 +60,11 @@ AUGMENTATION PARA BANCOS DE DADOS DESBALANCEADOS.
 - Lembre-se o número de imagens no Banco Artificial de Imagens se baseia na equação:
      - Total de imagens = nImage * fotografias originais
 
+ # :hammer: Funcionalidades do projeto
+
+- `Funcionalidade 1`: Aplicar filtros geométricos ou de cor em imagens originais.
+- `Funcionalidade 2`: Gerar o Banco de Artificial de Imagens.
+
 # 📦 Materiais utilizados
 
 - https://www.r-project.org/other-docs.html
