@@ -91,7 +91,7 @@ AUGMENTATION PARA BANCOS DE DADOS DESBALANCEADOS.
      - Concrete Crack Conglomerate Dataset: https://data.lib.vt.edu/articles/dataset/Concrete_Crack_Conglomerate_Dataset/16625056?file=30930337
           - Autores: Eric Bianchi, Matthew Hebdon
           - Classe: Rachadura
-          - Artigo:https://doi.org/10.7294/16628596.v1
+          - Artigo: https://doi.org/10.7294/16628596.v1
 
 # ✒️ Autores
 
