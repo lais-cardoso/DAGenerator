@@ -27,9 +27,9 @@ AUGMENTATION PARA BANCOS DE DADOS DESBALANCEADOS.
 
 # ✔️ Tecnologias utilizadas
 
-    - **Linguagem**: R na versão 4.2.2</li>
-    - **IDE**: Rstudio na versão 2022.12.0</li>
-    - **Biblioteca**: EBImage na versão 4.42.0</li>
+ - **Linguagem**: R na versão 4.2.2</li>
+ - **IDE**: Rstudio na versão 2022.12.0</li>
+ - **Biblioteca**: EBImage na versão 4.42.0</li>
 
 # 📁 Acesso ao projeto
 
