@@ -108,7 +108,7 @@ Responsável pelo desenvolvimento da **Pesquisa e Desenvolvimento** do Algoritmo
 [![Curriculo Lattes Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/lais-cardoso-de-medeiros-enginner)](www.linkedin.com/in/lais-cardoso-de-medeiros-enginner) 
 [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
 
- | [<img loading="lazy" style="border-radius: 50%;" src="./Autores/andre-perfil" width=115 /><br><sub>André Luiz Carvalho Ottoni</sub>](https://sites.google.com/view/andreottoni) |
+ | [<img loading="lazy" style="border-radius: 50%;" src="./Autores/andre-perfil.jpg" width=115 /><br><sub>André Luiz Carvalho Ottoni</sub>](https://sites.google.com/view/andreottoni) |
  | :---: |
 
 Responsável pela Orientação do Projeto, André Luiz Carvalho Ottoni é Doutor em Engenharia Elétrica pela UFBA (2022) com Graduação (2015) e Mestrado (2016) em Engenharia Elétrica pela UFSJ. Além disso, tem Formação técnica em Planejamento e Gestão em Tecnologia da Informação pelo CEFET-MG e atua como Professor Adjunto no Centro de Ciências Exatas e Tecnológicas (CETEC) da Universidade Federal do Recôncavo da Bahia (UFRB). Tópicos de pesquisa: Inteligência Artificial, Aprendizado de Máquina, Aprendizado Profundo, Aprendizado por Reforço e Robótica Inteligente.
