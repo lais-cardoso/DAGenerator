@@ -105,7 +105,7 @@ Para acessar esse material: https://drive.google.com/drive/folders/1ZkwuPjSWuE02
 
 Responsável pelo desenvolvimento da **Pesquisa e Desenvolvimento** do Algoritmo DAGenerator, Laís Cardoso de Medeiros é Bacharela em Ciências Exatas e Tecnológicas (2023) e estudante de Engenharia na Computação na Universidade Federal do Recôncavo da Bahia (UFRB). Além disso, atua como pesquisadora nas áreas de Robótica e Inteligência Artificial no grupo de pesquisa Robotics and Artificial Intelligence (RAI) criado no Centro de Ciências Exatas e Tecnológicas (CETEC).
 
-[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
+[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](www.linkedin.com/in/lais-cardoso-de-medeiros-enginner) 
 [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
 
  | [<img loading="lazy" style="border-radius: 50%;" src="[https://sites.google.com/view/andreottoni" width=115 /><br><sub>André Luiz Carvalho Ottoni</sub>](https://sites.google.com/view/andreottoni) |
