@@ -111,7 +111,7 @@ Responsável pelo desenvolvimento da **Pesquisa e Desenvolvimento** do Algoritmo
  | [<img loading="lazy" style="border-radius: 50%;" src="./Autores/andre-perfil.jpg" width=115 /><br><sub>André Luiz Carvalho Ottoni</sub>](https://sites.google.com/view/andreottoni) |
  | :---: |
 
-Responsável pela Orientação do Projeto, André Luiz Carvalho Ottoni é Doutor em Engenharia Elétrica pela UFBA (2022) com Graduação (2015) e Mestrado (2016) em Engenharia Elétrica pela UFSJ. Além disso, tem Formação técnica em Planejamento e Gestão em Tecnologia da Informação pelo CEFET-MG e atua como Professor Adjunto no Centro de Ciências Exatas e Tecnológicas (CETEC) da Universidade Federal do Recôncavo da Bahia (UFRB). Tópicos de pesquisa: Inteligência Artificial, Aprendizado de Máquina, Aprendizado Profundo, Aprendizado por Reforço e Robótica Inteligente.
+Responsável pela **Orientação** do Projeto, André Luiz Carvalho Ottoni é Doutor em Engenharia Elétrica pela UFBA (2022) com Graduação (2015) e Mestrado (2016) em Engenharia Elétrica pela UFSJ. Além disso, tem Formação técnica em Planejamento e Gestão em Tecnologia da Informação pelo CEFET-MG e atua como Professor Adjunto no Centro de Ciências Exatas e Tecnológicas (CETEC) da Universidade Federal do Recôncavo da Bahia (UFRB). Tópicos de pesquisa: Inteligência Artificial, Aprendizado de Máquina, Aprendizado Profundo, Aprendizado por Reforço e Robótica Inteligente.
 
 # :moneybag: Financiamento
 
