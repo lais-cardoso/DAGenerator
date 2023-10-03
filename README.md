@@ -77,8 +77,8 @@ Para acessar esse material: https://drive.google.com/drive/folders/1ZkwuPjSWuE02
 
 - Documentação R: https://www.r-project.org/other-docs.html
 - Documentação da Biblioteca EBImage: https://bioconductor.org/packages/release/bioc/html/EBImage.html
-- https://www.youtube.com/watch?v=dKgEDAUUtoo&t=206s
-- https://youtube.com/playlist?list=PLvth1ZcREyK6QXKYIpnkmHbbRXSsE53f9&si=48fx9YPsODV_XFFM
+- Image Analysis and Processing with R: https://www.youtube.com/watch?v=dKgEDAUUtoo&t=206s
+- Curso de Análise computacional de imagens - Prof. Alcinei Azevedo (UFMG): https://youtube.com/playlist?list=PLvth1ZcREyK6QXKYIpnkmHbbRXSsE53f9&si=48fx9YPsODV_XFFM
 
 # 📦 Base de Dados 
 
