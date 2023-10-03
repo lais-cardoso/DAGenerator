@@ -75,8 +75,8 @@ Para acessar esse material: https://drive.google.com/drive/folders/1ZkwuPjSWuE02
 
 # :pushpin: Materiais utilizados
 
-- https://www.r-project.org/other-docs.html
-- https://bioconductor.org/packages/release/bioc/html/EBImage.html
+- Documentação R: https://www.r-project.org/other-docs.html
+- Documentação da Biblioteca EBImage: https://bioconductor.org/packages/release/bioc/html/EBImage.html
 - https://www.youtube.com/watch?v=dKgEDAUUtoo&t=206s
 - https://youtube.com/playlist?list=PLvth1ZcREyK6QXKYIpnkmHbbRXSsE53f9&si=48fx9YPsODV_XFFM
 
@@ -87,7 +87,7 @@ Para acessar esse material: https://drive.google.com/drive/folders/1ZkwuPjSWuE02
           - Autor: Çağlar Fırat Özgenel
           - Classes: Parede e Rachadura
           - Artigo: https://doi.org/10.22260/ISARC2018/0094
-     - Crack recognition dataset: https://drive.google.com/drive/folders/1cplcUBmgHfD82YQTWnn1dssK2Z_xRpjx
+     - Crack Recognition dataset: https://drive.google.com/drive/folders/1cplcUBmgHfD82YQTWnn1dssK2Z_xRpjx
           - Autor: Yang
           - Classe: Rachadura
           - Artigo: https://doi.org/10.1111/mice.12412
