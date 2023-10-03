@@ -2,7 +2,7 @@
 <p>
      O <b><i>DA Generator</i></b> é o algoritmo proposto para geração de imagens artificiais a partir de transformações geométricas e de cor. 
 
-Em resumo, o programa tem o intuito de realizar o balanceamento de banco de dados através da técnica do  <i>Data Augmentation</i>, em português aumento de imagens.     Isto é, construir um grande banco de imagens a partir de uma pequena quantidade de fotografias originais.
+Em resumo, o projeto tem o intuito de realizar o balanceamento de banco de dados através da técnica do  <i>Data Augmentation</i>, em português aumento de imagens.     Isto é, construir um grande banco de imagens a partir de uma pequena quantidade de fotografias originais.
 </p>
 
 <h1 align="center">
