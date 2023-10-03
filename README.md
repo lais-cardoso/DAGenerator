@@ -104,7 +104,7 @@ Para acessar esse material: https://drive.google.com/drive/folders/1ZkwuPjSWuE02
 
 # ✒️ Autores
 
- | [<img loading="lazy" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/68950987?v=4" width=115 /><br><sub>Laís Cardoso de Medeiros</sub>]([https://github.com/lais-cardoso](http://lattes.cnpq.br/7464083861535129)) |
+ | [<img loading="lazy" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/68950987?v=4" width=115 /><br><sub>Laís Cardoso de Medeiros</sub>]((http://lattes.cnpq.br/7464083861535129)) |
  | :---: |
 
 Responsável pelo desenvolvimento da **Pesquisa e Desenvolvimento** do Algoritmo DAGenerator, Laís Cardoso de Medeiros é Bacharela em Ciências Exatas e Tecnológicas (2023) e estudante de Engenharia na Computação na Universidade Federal do Recôncavo da Bahia (UFRB). Além disso, atua como pesquisadora nas áreas de Robótica e Inteligência Artificial no grupo de pesquisa Robotics and Artificial Intelligence (RAI) criado no Centro de Ciências Exatas e Tecnológicas (CETEC).
