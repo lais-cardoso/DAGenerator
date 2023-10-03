@@ -113,6 +113,8 @@ Responsável pelo desenvolvimento da **Pesquisa e Desenvolvimento** do Algoritmo
      <a href="https://www.linkedin.com/in/lais-cardoso-de-medeiros-enginner" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+<br>
+
  | [<img loading="lazy" style="border-radius: 50%;" src="./Autores/andre-perfil.jpg" width=115 /><br><sub>André Luiz Carvalho Ottoni</sub>](https://sites.google.com/view/andreottoni) |
  | :---: |
 
