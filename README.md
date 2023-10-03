@@ -53,7 +53,8 @@ Para acessar esse material: https://drive.google.com/drive/folders/1ZkwuPjSWuE02
 - Clique em <i> source </i> para executar o menu.
 - **Leia** as mensagens do terminal.
 - Selecione a transformação através do menu no terminal de comando do Rstudio.
-- Selecione a variável conforme a equação abaixo.
+- Selecione a nImage conforme a equação abaixo.
+     - Total de imagens = nImage * fotografias originais 
 - Verifique a geração do Banco Artificial de Imagens.
 
 # :warning: Observações importantes
