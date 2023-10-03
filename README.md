@@ -45,6 +45,10 @@ Para acessar esse material: https://drive.google.com/drive/folders/1ZkwuPjSWuE02
 - Realize o  <i> download </i> do Projeto.
 - Acesse a documentação da biblioteca EBImage: https://bioconductor.org/packages/release/bioc/html/EBImage.html
 - Instale a biblioteca EBImage.
+     if (!require("BiocManager", quietly = TRUE))
+         install.packages("BiocManager")
+     
+     BiocManager::install("EBImage") 
 - Clique em <i> source </i> para executar os arquivos de transformação de imagens.
 - Clique em <i> source </i> para executar o menu.
 - **Leia** as mensagens do terminal.
