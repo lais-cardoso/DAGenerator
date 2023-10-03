@@ -82,12 +82,12 @@ Para acessar esse material: https://drive.google.com/drive/folders/1ZkwuPjSWuE02
 
 # 📦 Base de Dados 
 
-- Dataset utilizado para os experimentos:
+- Dataset utilizado para os **experimentos**:
      - Concrete Crack Images for Classification: https://data.mendeley.com/datasets/5y9wdsg2zt/2
           - Autor: Çağlar Fırat Özgenel
           - Classes: Parede e Rachadura
           - Artigo: https://doi.org/10.22260/ISARC2018/0094
-- Dataset utilizado para testes:
+- Dataset utilizado para **testes**:
      - Crack Recognition dataset: https://drive.google.com/drive/folders/1cplcUBmgHfD82YQTWnn1dssK2Z_xRpjx
           - Autor: Yang
           - Classe: Rachadura
@@ -97,7 +97,7 @@ Para acessar esse material: https://drive.google.com/drive/folders/1ZkwuPjSWuE02
           - Classe: Rachadura
           - Artigo: https://doi.org/10.1016/j.autcon.2021.103606
 
-- Dataset EXTRA:
+- Dataset **EXTRA**:
      - Concrete Crack Conglomerate Dataset: https://data.lib.vt.edu/articles/dataset/Concrete_Crack_Conglomerate_Dataset/16625056?file=30930337
           - Autores: Eric Bianchi, Matthew Hebdon
           - Classe: Rachadura
