@@ -87,7 +87,7 @@ Para acessar esse material: https://drive.google.com/drive/folders/1ZkwuPjSWuE02
           - Autor: Çağlar Fırat Özgenel
           - Classes: Parede e Rachadura
           - Artigo: https://doi.org/10.22260/ISARC2018/0094
-     - Crack dataset : https://drive.google.com/drive/folders/1cplcUBmgHfD82YQTWnn1dssK2Z_xRpjx
+     - Crack recognition dataset: https://drive.google.com/drive/folders/1cplcUBmgHfD82YQTWnn1dssK2Z_xRpjx
           - Autor: Yang
           - Classe: Rachadura
           - Artigo: https://doi.org/10.1111/mice.12412
