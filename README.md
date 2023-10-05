@@ -22,7 +22,7 @@ O link abaixo contém o Trabalho de Conclusão de Curso e o Artigo com metodolog
      - Bacharelado em Ciências Exatas e Tecnológicas, Universidade Federal do Recôncavo da Bahia, Junho de 2023.
 
 - **Artigo**: Aplicacão de Aprendizado Profundo na Classificação de Imagens de Patologias da Construção Civil: Análise de <i> Data Augmentation </i> para Bancos de Dados Desbalanceados.
-     - Será publicado e apresentado no Congresso Brasileiro de Inteligência Computacional 2023.
+     - Será publicado e apresentado no Congresso Brasileiro de Inteligência Computacional 2023: https://sbic.org.br/wp-content/uploads/2023/10/ST15/CBIC_2023_paper063.pdf
       
 Para acessar esse material: https://drive.google.com/drive/folders/1ZkwuPjSWuE02hcQw7Wa_Yb6BWQ0pkfbj?usp=sharing
 
